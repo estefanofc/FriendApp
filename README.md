@@ -1,16 +1,13 @@
-# friend_app_flutter
+# Friend App
 
-A new Flutter project.
+## Purpose
+Having trouble making friends? The purpose of this project is to develop an Android app that will help monitor and encourage engagement among Edmonds Community College students. This will help new students and even current students to connect and network with each other.
 
-## Getting Started
+## Target User 
+The target user for this app are the students that currently attend Edmonds Community College.
 
-This project is a starting point for a Flutter application.
+## Functionality
+The app will allow the students at Edmonds Community College to potentially create meaningful relationships. It will help narrow down similarities to find their best fit in making new friends or creating study groups. Information about the students themselves will help filter for people with similar traits, characteristics, or even goals (intended majors).
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Limitations
+This application is only limited to the student body at Edmonds Community College.
