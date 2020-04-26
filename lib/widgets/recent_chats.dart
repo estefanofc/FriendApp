@@ -76,7 +76,7 @@ class RecentChats extends StatelessWidget {
                                 height: 5.0,
                               ),
                               Container(
-                                width: MediaQuery.of(context).size.width * 0.45,
+                                width: MediaQuery.of(context).size.width * 0.43,//changed from 0.45 to adjust for smaller phones
                                 child: Text(
                                   chat.text,
                                   style: TextStyle(
